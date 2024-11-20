@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Body_mass_index</string>
+    <string name="edit_height">Введите ваш рост (cм)</string>
+    <string name="edit_weight">Введите ваш вес (кг)</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="result">Результат</string>
+    <string name="cambeck">Вернуться</string>
+</resources>
